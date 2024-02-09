@@ -1,0 +1,7 @@
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.exe.config
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.exe
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\bin\Debug\BankAccountManagement.pdb
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.AssemblyReference.cache
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.exe
+C:\Users\potte\source\repos\BankAccountManagement\BankAccountManagement\obj\Debug\BankAccountManagement.pdb
